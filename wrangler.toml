@@ -1,4 +1,4 @@
-name = "amane-voting-bot"
+name = "telegram-voting-bot"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 
