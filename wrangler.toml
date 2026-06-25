@@ -3,5 +3,5 @@ main = "src/index.js"
 compatibility_date = "2025-01-01"
 
 [[kv_namespaces]]
-binding = "VOTES"
-id = "YOUR_KV_ID"
+binding = "VOTES1"
+id = "c93ca3c1656544a1bdad53c7b51e02c9"
